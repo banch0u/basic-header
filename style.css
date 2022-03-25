@@ -3,4 +3,15 @@
     display: flex;
     padding: 10px;
     gap: 10px;
+    justify-content: space-between;
+}
+.elements{
+    display: flex;
+    gap: 10px;
+}
+.elements div{
+    background-color: aliceblue;
+    color: blueviolet;
+    padding: 10px ;
+    font-weight: bold;
 }
